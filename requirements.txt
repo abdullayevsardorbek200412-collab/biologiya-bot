@@ -1,5 +1,0 @@
-aiogram==3.7.0
-anthropic
-httpx
-PyPDF2
-python-dotenv
